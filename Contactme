@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Contact me</title>
+</head>
+
+<body>
+  <h2>How to contact Ella:</h2>
+    <h4><em>📧Email:</em>ellaLyang30@yahoo.com</h4>
+    <h4><em>🦄Instagram:</em> EllaYang</h4>
+
+<hr size="3" noshade>
+
+  <h2>Contact me through the email submission box:</h2>
+    <h4>
+        <form>
+            <label>Submit your email here:</label>
+            <input type="text">
+            <input type="submit">
+
+        </form>
+
+    </h4>
+
+</body>
+
+
+
+
+
+</html>
+
+
+
+
+
+
+
+
+
+    

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Meowing Challengies</title>
+</head>
+
+<body>
+    <h1>Meowing Competition</h1>
+    <img src="meow master 1.png" alt="Meowing masters since 2014"> 
+    <h2><strong>Definition</strong></h2>
+    <p>A Meowing Competition was first held in 2014 when Mike the Raccoon and Ella the Cat first decided they will be together. 
+        The rule is to use as many meows as possible to replace daily used words. When the relationship was further developed, the 
+        competition keeps advancing. Abstract concepts and more complex emotions are conveyed in a wider range of meows.<p>
+    <h2><strong><em>Winners</em> of Each Year</strong></h2>
+    
+    <ul>
+        <li>2014 Ella</li>
+        <li>2015 Ella</li>
+        <li>2016 Mike</li>
+        <li>2017 Ella</li>
+        <li>2018 Fiona the very cute cat</li>
+        <li>2022 Mike</li>
+        <li>2021 Mike</li>
+        <li>2022 To be decided (very possible to be Simba)</li>
+    </ul>
+    
+</body>
+</html>
